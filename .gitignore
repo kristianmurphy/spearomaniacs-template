@@ -1,0 +1,17 @@
+_site
+.sass-cache
+node_modules
+Gemfile.lock
+*.gem
+.next
+out
+dist
+.turbo
+coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.env
+.env.local
+.env.*.local
