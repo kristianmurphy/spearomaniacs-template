@@ -1,6 +1,9 @@
-## Storefront Template Setup (Sanity + Next.js)
+# Storefront Template — Not Spearomaniacs Production
 
 This frontend reads content from the Sanity Studio in `../spearomaniacs-cms-template`.
+
+> Create a new Sanity project before running this site. Never use the Spearomaniacs
+> production project ID (`5v60gbu6`) in this template.
 
 ### 1) Configure environment variables
 
